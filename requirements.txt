@@ -1,4 +1,8 @@
 flask
 pandas
 requests
+numpy
+scikit-learn
+python-telegram-bot
 gunicorn
+
